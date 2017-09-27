@@ -1,0 +1,40 @@
+h1 {
+    background-color: #00a;
+    color: darksalmon;
+    margin: 5px 30px 60px;
+    border: #10046c dashed 10px;
+    font-style: normal;
+}
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px 100px;
+    padding: 15px;
+    border: rgba(192,105,25,0.78) solid;
+}
+p, ol {
+    line-height: 21px;
+    color: darkred;
+    text-align: left;
+}
+
+a {
+    color: mediumaquamarine;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+    /*text-decoration: underline;*/
+    text-transform: uppercase;
+
+    latter-spacing: 0.5em;
+    word-spacing: 0.5em;
+    line-height: 1.5;
+    text-align: center;
+
+    background-color: #afeeee;
+    color: darksalmon;
+    font-style: italic;
+}
