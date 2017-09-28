@@ -1,3 +1,19 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 12px;
+    /*text-decoration: underline;*/
+    text-transform: uppercase;
+
+    letter-spacing: 0.15em;
+    word-spacing: 0.5em;
+    line-height: 1.5;
+    text-align: center;
+
+    background-color: #afeeee;
+    color: darksalmon;
+    font-style: italic;
+}
 h1 {
     background-color: #00a;
     color: darksalmon;
@@ -17,24 +33,8 @@ p, ol {
     color: darkred;
     text-align: left;
 }
-
-a {
-    color: mediumaquamarine;
+td {
+    background-color: rgba(64,64,64,0.67);
 }
 
-body {
-    font-family: arial, helvetica, sans-serif;
-    font-weight: bolder;
-    font-size: 12px;
-    /*text-decoration: underline;*/
-    text-transform: uppercase;
 
-    latter-spacing: 0.5em;
-    word-spacing: 0.5em;
-    line-height: 1.5;
-    text-align: center;
-
-    background-color: #afeeee;
-    color: darksalmon;
-    font-style: italic;
-}
